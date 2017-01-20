@@ -1,6 +1,4 @@
-#計数工学科数理情報工学コース3年
-#03-160600 友松 風涼
-
+#tfduca
 library(ggm)
 
 parcor <- function(Cor){
